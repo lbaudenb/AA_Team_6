@@ -23,25 +23,25 @@
 
 - Robin
   - done
-    - cerated instruction: how to run
+    - created instruction: how to run
   - to be reviewed by the team
     - implemented a multi dimensional clustering
   - in progress
-    - write report
-    - interprate user groups by clustering
+    - write the final report
+    - interprete user groups by clustering
   - planned
     - evaluate further clustering features
-    - further refinement of prediction target to support business descission making
+    - refine prediction target to support business case
     
 
 - Nils
   - done
-    - cleaned user-Input
-    - evaluated business cases for the prediction
-    - added additional visualization to the descriptive part
-    - corrected text errors in the notebooks
+    - handled and cleaned user inputs
+    - added additional visualization to the descriptives part
+    - evaluated business case for the prediction
+    - corrected typos and formulations in markdowns and plots
   - in progress
-    - refactoring and creation of graphs for the final report
+    - write the final report
   - planned
-    - further refinement of prediction target to support business descission making
-    - write the report
+    - refine prediction target to support business case and assist with implementation 
+    - refactor plots, graphs and markdowns to ensure notebook coherence
