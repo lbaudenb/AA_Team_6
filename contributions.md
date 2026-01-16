@@ -9,28 +9,39 @@
     - finish prediction
     - try to find better clustering
 
-
 - Linus
   - done
-    - implemented clustering
-    - created 2 heatmaps for site detection
+    - cleaning of dataset
+    - implemented initial clustering
+    - implemnted heatmaps for site detection
     - created project strucure
-    - started a bit with cleaning
+  - in progress
+    - ADD HERE
   - planned
-    - finish prediction
-    - review report 
+    - finish prediction //ADD HERE WHAT EXACTLY
+    - support of the report 
 
 - Robin
   - done
-    - created README
-  - planned
-    - try to find better clustering
+    - cerated instruction: how to run
+  - to be reviewed by the team
+    - implemented a multi dimensional clustering
+  - in progress
     - write report
+    - interprate user groups by clustering
+  - planned
+    - evaluate further clustering features
+    - further refinement of prediction target to support business descission making
+    
 
 - Nils
   - done
     - cleaned user-Input
-    - thought of a business case
-    - corrected spelling mistakes in KPIs and added additional visualization
+    - evaluated business cases for the prediction
+    - added additional visualization to the descriptive part
+    - corrected text errors in the notebooks
+  - in progress
+    - refactoring and creation of graphs for the final report
   - planned
+    - further refinement of prediction target to support business descission making
     - write the report
