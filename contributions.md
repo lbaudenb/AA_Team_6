@@ -1,19 +1,26 @@
 - Daniel
 
   - done
-    - all the cleaning except the start and user-Input
-    - all 3 KPIs and the site detection except for the 2 heatmaps
-    - proposed alternative clustering with new created features
+    - cleaning of charging session dataset
+      (formatting of time data, handle missing userID values, handled duplicated sessionID,  corrected handle missing / invalid values, adding of needed features, outlier analysis, weather data cleaning)
+    - KPIs
+      (choosed all 3 KPIs and implemented them with in-depth description of them)
+    - Site Detection
+      (created more visualizations: total energy per site, avg session duration per site, number of session per day of the week, number of sessions per site and gave an argument for which site is private based on these vuisualizations and the work of Linus)
+    - proposed alternative clustering with more cluster and (new created) features
     - started with prediction (polynomal regression with ridge & lasso regularization)
+  - in progress
+    - feature selection
+    - train more models
   - planned
-    - review report
+    - support of the report
     - finish prediction
     - try to find better clustering
 
 - Linus
 
   - done
-    - cleaning of charing session dataset
+    - cleaning of charging session dataset
       (formatting, handle missing / invalid values, handle duplicates)
     - implemented initial clustering
       (inlcuded creating user level dataset and hyperparameter tuning)
@@ -23,7 +30,7 @@
   - in progress
     - feature selection / engineering for prediction
     - handle covid impact
-    - train differetn models (decision trees, nn)
+    - train different models (decision trees, nn)
   - planned
     - support of the report
 
