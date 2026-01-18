@@ -10,8 +10,10 @@
     - proposed alternative clustering with more cluster and (new created) features
     - started with prediction (polynomal regression with ridge & lasso regularization)
   - in progress
-    - feature selection
-    - train more models
+    - feature selection for prediction
+    - visualize decision tree
+    - train NN
+    - thinking about Covid impact
   - planned
     - support of the report
     - finish prediction
@@ -31,6 +33,7 @@
     - feature selection / engineering for prediction
     - handle covid impact
     - train different models (decision trees, nn)
+    - thinking about covid impact
   - planned
     - support of the report
 
