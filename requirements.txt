@@ -5,3 +5,6 @@ seaborn
 numpy
 scikit-learn
 holidays
+keras
+xgboost
+torch
