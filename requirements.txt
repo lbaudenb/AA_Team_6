@@ -1,7 +1,0 @@
-pandas
-matplotlib
-pandas
-seaborn
-numpy
-scikit-learn
-holidays
