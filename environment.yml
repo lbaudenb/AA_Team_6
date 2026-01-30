@@ -4,11 +4,22 @@ channels:
   - defaults
 dependencies:
   - python=3.10
+  - pip
   - ipython
+  - jupyter
   - jupyterlab
-  - numpy
   - pandas
+  - numpy
   - matplotlib
   - seaborn
   - scipy
+  - scienceplots
   - scikit-learn
+  - scikit-fda
+  - graphviz
+  - python-graphviz
+  - xgboost
+  - pip:
+    - holidays
+    - torch
+    - keras
