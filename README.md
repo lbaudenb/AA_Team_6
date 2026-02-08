@@ -1,7 +1,6 @@
 # AA_Team_6
 
 ## How to run
-
 ### Create an environment from the environment.yml file
 
 Open a terminal in the root of the project and run this command
@@ -9,6 +8,11 @@ Open a terminal in the root of the project and run this command
 ```
 conda env create -f environment.yml
 ```
+
+### Overal Struture
+
+There is one notebook for each of the four tasks. The session data changed by the preparation notebook will be save in the data_processed folder
+
 
 ### Exectue the notebooks
 
