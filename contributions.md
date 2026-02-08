@@ -3,21 +3,15 @@
     - cleaning of charging session dataset
       (formatting of time data, handle missing userID values, handled duplicated sessionID, corrected handle missing / invalid values, adding of needed features, outlier analysis, weather data cleaning)
     - KPIs
-      (choosed all 3 KPIs and implemented them with in-depth description of them)
+      (choosed all 3 KPIs and implemented them with in-depth description as markdown)
     - Site Detection
-      (created more visualizations: total energy per site, avg session duration per site, number of session per day of the week, number of sessions per site and gave an argument for which site is private based on these vuisualizations and the work of Linus)
-    - proposed alternative clustering with more cluster and (new created) features
-    - started with prediction (polynomal regression with ridge & lasso regularization)
-  - in progress
-    - feature selection for prediction
-    - visualize decision tree
-    - train NN
-    - thinking about Covid impact
-  - planned
-    - support of the report
-    - finish prediction
-    - try to find better clustering
-
+      (created more visualizations: total energy per site, avg session duration per site, number of session per day of the week, number of sessions per site and wrote the markdown for which site is private based on these visualizations and the work of Linus)
+    - Clustering
+      (created more features for clustering, implemented & evaluated different clusters, cluster description)
+    - Prediction
+      (created hourly features, added holiday feature, created cyclic features train-test split, Lasso Feature Selection, build regression models, build Neural Network, added best_small_tree and vis of tree, wrote the markdown for task 4b ) 
+    - Report
+      (wrote initial clustering, info on the decision tree and neural network and the model summary; helped shortening and rewriting the first version)
 - Linus
   - done
     - cleaning of charging session dataset
